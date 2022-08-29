@@ -2,7 +2,7 @@
 
 We are a group of hardworking students at the University of Victoria (UVic) who build
 software together. In addition to supporting projects, VikeLabs also hosts workshops
-and social events for the UVic tech community?
+and social events for the UVic tech community!
 
 ## Current Projects
 
