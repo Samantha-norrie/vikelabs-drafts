@@ -18,7 +18,7 @@ building timetables for the University of Victoria.
 - TypeScript
 - Firebase
 
-### Passr
+### [Passr](https://github.com/VikeLabs/Passr)
 
 #### Recruitment Status: 
 
@@ -29,7 +29,7 @@ building timetables for the University of Victoria.
 - 
 - 
 
-### UVic Course Scraper
+### [UVic Course Scraper](https://github.com/VikeLabs/uvic-course-scraper)
 
 #### Recruitment Status: 
 
@@ -41,7 +41,7 @@ course calandar and course schedule information sources. It uses Cheerio under t
 - 
 - 
 
-### Spotify Playlist
+### [Spotify Playlist](https://github.com/VikeLabs/spotify-playlist)
 
 #### Recruitment Status: 
 
@@ -52,7 +52,7 @@ course calandar and course schedule information sources. It uses Cheerio under t
 - 
 - 
 
-### ESS Locker Registration
+### [ESS Locker Registration](https://github.com/VikeLabs/ess-locker-registration)
 
 #### Recruitment Status: 
 
@@ -63,7 +63,7 @@ course calandar and course schedule information sources. It uses Cheerio under t
 - 
 - 
 
-### vikelabs.ca
+### [vikelabs.ca](https://github.com/VikeLabs/vikelabs.ca)
 
 #### Recruitment Status: 
 
@@ -74,7 +74,7 @@ Home of the VikeLabs website.
 - 
 - 
 
-### Gatekeeper
+### [Gatekeeper](https://github.com/VikeLabs/gatekeeper)
 
 #### Recruitment Status: 
 
@@ -86,7 +86,7 @@ verification by domain is the only supported method, although that might change 
 - 
 - 
 
-### RateMyCoop
+### [RateMyCoop](https://github.com/VikeLabs/RateMyCoop)
 
 #### Recruitment Status: 
 
@@ -98,7 +98,7 @@ others make decisions on where they want to apply.
 - 
 - 
 
-### Taproot Knowledge Base
+### [Taproot Knowledge Base](https://github.com/VikeLabs/Taproot)
 
 #### Recruitment Status: 
 
