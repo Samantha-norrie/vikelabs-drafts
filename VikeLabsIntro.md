@@ -6,7 +6,7 @@ and social events for the UVic tech community?
 
 ## Current Projects
 
-### CourseUp
+### [CourseUp] (https://github.com/VikeLabs/courseup)
 
 #### Recruitment Status: 
 
