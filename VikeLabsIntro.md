@@ -18,6 +18,11 @@ building timetables for the University of Victoria.
 - TypeScript
 - Firebase
 
+#### Goals for Fall 2022
+-
+-
+-
+
 ### [Passr](https://github.com/VikeLabs/Passr)
 
 #### Recruitment Status: 
@@ -27,7 +32,12 @@ building timetables for the University of Victoria.
 #### Tech Stack
 - 
 - 
-- 
+-
+
+#### Goals for Fall 2022
+-
+-
+-
 
 ### [UVic Course Scraper](https://github.com/VikeLabs/uvic-course-scraper)
 
@@ -39,7 +49,12 @@ course calandar and course schedule information sources. It uses Cheerio under t
 #### Tech Stack
 - 
 - 
-- 
+-
+
+#### Goals for Fall 2022
+-
+-
+-
 
 ### [Spotify Playlist](https://github.com/VikeLabs/spotify-playlist)
 
@@ -52,6 +67,11 @@ course calandar and course schedule information sources. It uses Cheerio under t
 - 
 - 
 
+#### Goals for Fall 2022
+-
+-
+-
+
 ### [ESS Locker Registration](https://github.com/VikeLabs/ess-locker-registration)
 
 #### Recruitment Status: 
@@ -61,7 +81,12 @@ course calandar and course schedule information sources. It uses Cheerio under t
 #### Tech Stack
 - 
 - 
-- 
+-
+
+#### Goals for Fall 2022
+-
+-
+-
 
 ### [vikelabs.ca](https://github.com/VikeLabs/vikelabs.ca)
 
@@ -84,7 +109,12 @@ verification by domain is the only supported method, although that might change 
 #### Tech Stack
 - 
 - 
-- 
+-
+
+#### Goals for Fall 2022
+-
+-
+-
 
 ### [RateMyCoop](https://github.com/VikeLabs/RateMyCoop)
 
@@ -96,7 +126,12 @@ others make decisions on where they want to apply.
 #### Tech Stack
 - 
 - 
-- 
+-
+
+#### Goals for Fall 2022
+-
+-
+-
 
 ### [Taproot Knowledge Base](https://github.com/VikeLabs/Taproot)
 
@@ -107,4 +142,9 @@ To make gardening knowledge more accessible for everyone.
 #### Tech Stack
 - 
 - 
-- 
+-
+
+#### Goals for Fall 2022
+-
+-
+-
