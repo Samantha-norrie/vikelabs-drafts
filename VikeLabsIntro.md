@@ -39,12 +39,11 @@ building timetables for the University of Victoria.
 -
 -
 
-### [UVic Course Scraper](https://github.com/VikeLabs/uvic-course-scraper)
+### [Embr](https://github.com/Project-Embr)
 
 #### Recruitment Status: 
 
-UVic Course Scraper is a Node.js library that parses information from University of Victoria (UVic)
-course calandar and course schedule information sources. It uses Cheerio under the hood to parse HTML.
+Opensoure MicroVPS provider running on a distributed computing cluster.
 
 #### Tech Stack
 - 
